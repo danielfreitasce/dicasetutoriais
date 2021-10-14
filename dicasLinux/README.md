@@ -1,3 +1,3 @@
-## Dicas Manjaro
+## Dicas sobre Linux
 
-Aqui você encontra material relacionado ao Manjaro Linux. 
+Aqui você encontra material relacionado ao Linux. 
